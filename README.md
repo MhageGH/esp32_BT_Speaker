@@ -12,7 +12,7 @@
 ## Development Environment
 - [esp-idf](https://github.com/espressif/esp-idf)
 
-## Controller
+## Instruction
 Options choose step:
  1. make menuconfig.
  2. enter menuconfig "Component config", choose "Bluetooth"
